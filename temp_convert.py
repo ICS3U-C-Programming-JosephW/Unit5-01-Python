@@ -2,7 +2,7 @@
 # Created By: Joseph Wondimagnehu
 # Date: May 6, 2025
 # This program converts the inputted celsius
-# from the user into fahrenheit.
+# from the user to fahrenheit.
 
 
 # Define the fahrenheit function.
