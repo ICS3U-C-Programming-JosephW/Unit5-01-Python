@@ -16,8 +16,8 @@ def fahrenheit():
         user_celsius_float = float(user_celsius_str)
         # Convert the celsius float to fahrenheit with the conversion formula.
         fahrenheit_conversion = (9 / 5) * user_celsius_float + 32
-        # Display the fahrenheit result to the user, rounded to two decimal places.
-        print(f"{user_celsius_float}°C is equal to {fahrenheit_conversion:.2f}°F.")
+        # Display the fahrenheit result to the user.
+        print(f"{user_celsius_float}°C is equal to {fahrenheit_conversion}°F.")
 
     # Runs if float() could not convert the user's string
     # input into a float.
