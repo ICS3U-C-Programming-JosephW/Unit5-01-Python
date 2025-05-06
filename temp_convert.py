@@ -23,7 +23,7 @@ def fahrenheit():
     # input into a float.
     except ValueError:
         # Display to the user that they did not enter a valid integer.
-        print(f"\n{user_celsius_str} is not a valid integer.")
+        print(f"\n{user_celsius_str} is not a valid number.")
 
 
 # Define the main function.
